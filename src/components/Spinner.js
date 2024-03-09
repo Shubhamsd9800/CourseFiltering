@@ -1,6 +1,6 @@
 import React from 'react'
 import { HashLoader } from 'react-spinners';
-import { CSSProperties } from 'react';
+import {CSSProperties}  from 'react';
 const Spinner = () => {
   return (
     <div className='flex flex-col items-center space-y-2'>
